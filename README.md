@@ -699,6 +699,10 @@
                         <span>年度认证认可检验检测综合成本较上一年度<span class="highlight-num">降低15万元</span></span>
                     </li>
                      <li class="achieve-item">
+                        <span class="achieve-icon">🏆</span>
+                        <span>企业体系缺陷项较上年度降低<span class="highlight-num">300%</span></span>
+                    </li>
+                     <li class="achieve-item">
                         <span class="achieve-icon">🎯</span>
                         <span>客方、监管方、第三方改进项完成率<span class="highlight-num">100%</span></span>
                     </li>
@@ -709,10 +713,6 @@
                     <li class="achieve-item">
                         <span class="achieve-icon">🔄</span>
                         <span>全年内部体系纠正与改进项完成率<span class="highlight-num">85%</span></span>
-                    </li>
-                    <li class="achieve-item">
-                        <span class="achieve-icon">🏆</span>
-                        <span>企业体系缺陷项较上年度降低<span class="highlight-num">300%</span></span>
                     </li>
                 </ul>
             </div>
