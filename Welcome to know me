@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<QingYuanLiu>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -617,7 +617,7 @@
                     <span class="badge purple">注册体系审核员</span>
                     <span class="badge gold">人工智能训练师</span>
                 </div>
-                <p class="tagline">药学专业 · 理学学士 · 7年质量管理经验 · 期望城市：珠海 · 期望薪资：13-17K</p>
+                <p class="tagline">药学专业 · 理学学士 · 7年质量管理经验 · 期望城市：珠海 </p>
             </div>
             <div class="header-right">
                 <div class="stat-badge">
@@ -653,7 +653,7 @@
                     </li>
                     <li class="info-item">
                         <span class="info-icon">📍</span>
-                        <span class="info-value">中国 · 珠海</span>
+                        <span class="info-value">广东 · 珠海</span>
                     </li>
                 </ul>
                 <div class="highlight-tags">
@@ -669,15 +669,19 @@
                 <ul class="industry-list">
                     <li class="industry-item">
                         <div class="ind-title">🏥 医药行业</div>
-                        <div class="ind-desc">无菌注射剂、粉针剂、片剂生产质量管理，GMP合规监控</div>
+                        <div class="ind-desc">无菌注射剂、粉针剂、片剂生产质量管理
+                        GMP合规监控</div>
                     </li>
                     <li class="industry-item">
                         <div class="ind-title">⚗️ 化工行业</div>
-                        <div class="ind-desc">食品生物化工（发酵工艺）、汽车粉末材料（AA级客户审核）</div>
+                        <div class="ind-desc">、汽车粉末材料（化学合成）
+                        食品添加剂（生物发酵）</div>
                     </li>
                     <li class="industry-item">
                         <div class="ind-title">🪑 家具行业</div>
-                        <div class="ind-desc">木质家具、板式家具、金属家具、软体家具体系管理</div>
+                        <div class="ind-desc">办公家具
+                        民用家具
+                        特殊场所家具</div>
                     </li>
                 </ul>
             </div>
@@ -688,19 +692,19 @@
                 <ul class="achieve-list">
                     <li class="achieve-item">
                         <span class="achieve-icon">✅</span>
-                        <span>客户方、监管部门、第三方审核通过率<span class="highlight-num">100%</span></span>
+                        <span>客户方、监管部门、第三方审核一次性通过率<span class="highlight-num">100%</span></span>
+                    </li>
+                     <li class="achieve-item">
+                        <span class="achieve-icon">💰</span>
+                        <span>年度认证认可检验检测综合成本较上一年度<span class="highlight-num">降低15万元</span></span>
+                    </li>
+                     <li class="achieve-item">
+                        <span class="achieve-icon">🎯</span>
+                        <span>客方、监管方、第三方改进项完成率<span class="highlight-num">100%</span></span>
                     </li>
                     <li class="achieve-item">
                         <span class="achieve-icon">📋</span>
                         <span>全年证书新增、扩项、变更完成率<span class="highlight-num">95%</span></span>
-                    </li>
-                    <li class="achieve-item">
-                        <span class="achieve-icon">💰</span>
-                        <span>2024年度认证认可检验检测综合成本较上一年度<span class="highlight-num">降低15万元</span></span>
-                    </li>
-                    <li class="achieve-item">
-                        <span class="achieve-icon">🎯</span>
-                        <span>客方、监管方、第三方改进项完成率<span class="highlight-num">100%</span></span>
                     </li>
                     <li class="achieve-item">
                         <span class="achieve-icon">🔄</span>
@@ -708,7 +712,7 @@
                     </li>
                     <li class="achieve-item">
                         <span class="achieve-icon">🏆</span>
-                        <span>体系审核、AA客户审核、清真犹太产品认证<span class="highlight-num">一次性通过</span></span>
+                        <span>企业体系缺陷项较上年度降低<span class="highlight-num">300%</span></span>
                     </li>
                 </ul>
             </div>
@@ -731,22 +735,25 @@
                         <span class="cert-tag purple">BRCGS</span>
                         <span class="cert-tag purple">ISO22000</span>
                         <span class="cert-tag">HACCP</span>
-                        <span class="cert-tag">IATF16949</span>
+                        <span class="cert-tag">CQTA品质保证</span>
                     </div>
                 </div>
                 <div class="cert-section">
                     <div class="cert-label">🏷️ 产品认证</div>
                     <div class="cert-tags">
-                        <span class="cert-tag gold">UL</span>
+                        <span class="cert-tag gold">UL认证</span>
                         <span class="cert-tag gold">有害物质</span>
+                        <span class="cert-tag gold">中国环保产品</span>
                         <span class="cert-tag gold">环境标志</span>
+                        <span class="cert-tag gold">低VOCS</span>
                         <span class="cert-tag gold">绿色产品</span>
                         <span class="cert-tag gold">生态产品</span>
                         <span class="cert-tag gold">碳中和</span>
                         <span class="cert-tag gold">碳足迹</span>
+                        <span class="cert-tag gold">人体功效学</span>
                         <span class="cert-tag gold">Halal清真</span>
                         <span class="cert-tag gold">Kosher犹太</span>
-                        <span class="cert-tag gold">国际标准产品标志</span>
+                        <span class="cert-tag gold">采用国际标准产品认证</span>
                     </div>
                 </div>
                 <div class="cert-section">
@@ -777,11 +784,11 @@
                         <span class="skill-tag">MSA</span>
                         <span class="skill-tag">FMEA</span>
                         <span class="skill-tag">SPC</span>
-                        <span class="skill-tag">IATF16949</span>
+                        <span class="skill-tag">CP</span>
                         <span class="skill-tag">PDCA</span>
                         <span class="skill-tag">CAPA</span>
-                        <span class="skill-tag">8D报告</span>
-                        <span class="skill-tag">AQL抽样</span>
+                        <span class="skill-tag">8D</span>
+                        <span class="skill-tag">AQL</span>
                     </div>
                 </div>
                 <div class="skill-category">
@@ -789,9 +796,9 @@
                     <div class="skill-tags">
                         <span class="skill-tag">多体系整合</span>
                         <span class="skill-tag">体系0-1搭建</span>
-                        <span class="skill-tag">体系推行</span>
-                        <span class="skill-tag">内审员梯队建设</span>
-                        <span class="skill-tag">管理评审</span>
+                        <span class="skill-tag">体系落地推行</span>
+                        <span class="skill-tag">团队建设</span>
+                        <span class="skill-tag">业务流程优化</span>
                         <span class="skill-tag">风险管理</span>
                     </div>
                 </div>
@@ -801,20 +808,23 @@
                         <span class="skill-tag">Python编程</span>
                         <span class="skill-tag">AIGC大模型应用</span>
                         <span class="skill-tag">CNN卷积网络</span>
-                        <span class="skill-tag">RNN循环网络</span>
+                        <span class="skill-tag">数据清洗</span>
                         <span class="skill-tag">深度神经网络</span>
-                        <span class="skill-tag">数据标注模型</span>
+                        <span class="skill-tag">数据标注</span>
                     </div>
                 </div>
                 <div class="skill-category">
-                    <div class="skill-cat-label">📜 内审员资质</div>
+                    <div class="skill-cat-label">📜 证书资质</div>
                     <div class="skill-tags">
                         <span class="skill-tag">ISO9001内审员</span>
                         <span class="skill-tag">ISO14001内审员</span>
                         <span class="skill-tag">ISO45001内审员</span>
                         <span class="skill-tag">ISO50001内审员</span>
-                        <span class="skill-tag">BRCGS内审员</span>
-                        <span class="skill-tag">CCAA注册审核员</span>
+                        <span class="skill-tag">QMS注册审核员</span>
+                        <span class="skill-tag">FSMS注册审核员</span>
+                        <span class="skill-tag">EMS注册审核员</span>
+                        <span class="skill-tag">OHSMS注册审核员</span>
+                        <span class="skill-tag">高级人工智能训练师</span>
                     </div>
                 </div>
             </div>
