@@ -674,7 +674,7 @@
                     </li>
                     <li class="industry-item">
                         <div class="ind-title">⚗️ 化工行业</div>
-                        <div class="ind-desc">、汽车粉末材料（化学合成）
+                        <div class="ind-desc">汽车粉末材料（化学合成）
                         食品添加剂（生物发酵）</div>
                     </li>
                     <li class="industry-item">
